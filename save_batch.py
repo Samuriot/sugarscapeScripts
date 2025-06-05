@@ -54,8 +54,10 @@ if __name__ == "__main__":
     allowed_keys = {"timestep", "population", "agentDiseaseDeaths", "sickAgentsPercentage"}
     subdirectory, startingDiseases = find_subdirectory(sys.argv[2]), sys.argv[1]
     output_file = f"./{subdirectory}/average_log_{startingDiseases}.json"
-
-    file_list = sorted(glob.glob(f"./{subdirectory}/log_{startingDiseases}_*.json"))
+    if sys.argv[2] == "d":
+        file_list = sorted(glob.glob(f"./{subdirectory}/log_{startingDiseases}_*.json"))
+    else:
+        file_list = sorted(glob.glob(f"./{subdirectory}/log_{sys.argv[2]}_{startingDiseases}_*.json"))
     total_results = accumulate(file_list)
     average_results = average(total_results, allowed_keys)
     with open(output_file, "w") as outfile:
