@@ -17,4 +17,4 @@ script: A PYTHON script used to edit and produce varying JSON configuration file
 prepare.sh: A BASH SHELL script that runs 7 instances of Sugarscape with varying numbers of diseases {5, 50} with each disease type. This file also creates submission scripts for each job and submits them via SLURM to ANVIL ssh Linux server
 
 **To run our research scripts: use "make research" command**
-
+**To clean the rest of the files, use "make clean" command**
