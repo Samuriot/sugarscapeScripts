@@ -18,7 +18,7 @@ DATASET = $(DATACHECK) \
 		data/*.sh
 
 PLOTS = $(PLOTCHECK) \
-		plots/*.pdf
+		plots/*.png
 
 CLEAN = $(DATASET) \
 		$(LOGS) \
@@ -74,6 +74,10 @@ research:
 	chmod u+x script
 	chmod u+x prepare.sh
 	./prepare.sh
+
+plot:
+	chmod u+x prepare_plot.sh
+	./prepare_plot.sh
 
 clean:
 	rm -rf $(CLEAN) || true
