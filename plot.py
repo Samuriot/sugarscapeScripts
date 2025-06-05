@@ -14,7 +14,7 @@ def load_data (json_data):
     sick_agents = [entry["sickAgentsPercentage"] for entry in json_data]
     return timesteps, population, agent_disease_deaths, sick_agents
 
-def plot_population (timesteps, population, filename):
+def plot_population (timesteps, population, filename, subdirectory):
     plt.plot(timesteps, population, linestyle='-', label='Population', color="blue")
     plt.xlabel('Timestep')
     plt.ylabel('Population')
@@ -22,10 +22,10 @@ def plot_population (timesteps, population, filename):
     plt.grid(True)
     plt.legend()
     plt.tight_layout()
-    plt.savefig(f"{filename}_population.png")
+    plt.savefig(f"./{subdirectory}/{filename}_population.png")
     plt.cla()
 
-def plot_disease_deaths (timesteps, agent_deaths, filename):
+def plot_disease_deaths (timesteps, agent_deaths, filename, subdirectory):
     plt.plot(timesteps, agent_deaths, linestyle='-', label='Population', color="red")
     plt.xlabel('Timestep')
     plt.ylabel('Deaths')
@@ -33,10 +33,10 @@ def plot_disease_deaths (timesteps, agent_deaths, filename):
     plt.grid(True)
     plt.legend()
     plt.tight_layout()
-    plt.savefig(f"{filename}_disease_deaths.png")
+    plt.savefig(f"./{subdirectory}/{filename}_disease_deaths.png")
     plt.cla()
 
-def plot_incidence (timesteps, incidence, filename):
+def plot_incidence (timesteps, incidence, filename, subdirectory):
     plt.plot(timesteps, incidence, linestyle='-', label='Population', color="green")
     plt.xlabel('Timestep')
     plt.ylabel('Sick (%)')
@@ -44,7 +44,7 @@ def plot_incidence (timesteps, incidence, filename):
     plt.grid(True)
     plt.legend()
     plt.tight_layout()
-    plt.savefig(f"{filename}_sick_percentage.png")
+    plt.savefig(f"./{subdirectory}/{filename}_sick_percentage.png")
     plt.cla()
 
 def find_subdirectory (arg):
@@ -61,6 +61,6 @@ if __name__ == "__main__":
     
     json = load_json(input_file)
     timesteps, population, agent_deaths, sick_agents = load_data(json)
-    plot_population(timesteps, population, startingDiseases) 
-    plot_disease_deaths(timesteps, agent_deaths, startingDiseases)
-    plot_incidence(timesteps, sick_agents, startingDiseases)
+    plot_population(timesteps, population, startingDiseases, subdirectory) 
+    plot_disease_deaths(timesteps, agent_deaths, startingDiseases, subdirectory)
+    plot_incidence(timesteps, sick_agents, startingDiseases, subdirectory)

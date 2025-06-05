@@ -77,7 +77,9 @@ research:
 
 plot:
 	chmod u+x prepare_plot.sh
+	chmod u+x plot_average.sh
 	./prepare_plots.sh
+	./plot_average.sh
 
 clean:
 	rm -rf $(CLEAN) || true
