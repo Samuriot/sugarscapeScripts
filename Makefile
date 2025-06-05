@@ -77,7 +77,7 @@ research:
 
 plot:
 	chmod u+x prepare_plot.sh
-	./prepare_plot.sh
+	./prepare_plots.sh
 
 clean:
 	rm -rf $(CLEAN) || true

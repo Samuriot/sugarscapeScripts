@@ -47,8 +47,16 @@ def plot_incidence (timesteps, incidence, filename):
     plt.savefig(f"{filename}_sick_percentage.png")
     plt.cla()
 
+def find_subdirectory (arg):
+    if arg == "m":
+        return "lessDeadlyResults"
+    elif arg == "x":
+        return "deadlyDiseaseResults"
+    else:
+        return "defaultResults"
+
 if __name__ == "__main__":
-    subdirectory, startingDiseases = sys.argv[1], sys.argv[2]
+    subdirectory, startingDiseases = find_subdirectory(sys.argv[1]), sys.argv[2]
     input_file = f"./{subdirectory}/average_log_{startingDiseases}.json"
     
     json = load_json(input_file)
