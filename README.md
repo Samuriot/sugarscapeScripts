@@ -25,6 +25,6 @@ prepare_plots.sh: A BASH SHELL script that runs save_batch.py iteratively 21 tim
 plot_average.sh: A BASH SHELL script that runs plot.py iteratively 21 times, producing 63 total plots.
 
 
-**To run our research scripts: use "make research" command**\n\n
-**To run our data plotting scripts: use "make plot" command**\n\n
-**To clean the rest of the files, use "make clean" command**
+- **To run our research scripts: use "make research" command**  
+- **To run our data plotting scripts: use "make plot" command**  
+- **To clean the rest of the files, use "make clean" command**  
