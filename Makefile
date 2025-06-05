@@ -71,6 +71,7 @@ test:
 	$(PYTHON) $(SUGARSCAPE) --conf $(CONFIG)
 
 research:
+	chmod u+x script
 	chmod u+x prepare.sh
 	./prepare.sh
 
