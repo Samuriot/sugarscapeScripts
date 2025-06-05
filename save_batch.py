@@ -52,7 +52,7 @@ def find_subdirectory (arg):
 
 if __name__ == "__main__":
     allowed_keys = {"timestep", "population", "agentDiseaseDeaths", "sickAgentsPercentage"}
-    subdirectory, startingDiseases = find_subdirectory(sys.argv[1]), sys.argv[2]
+    subdirectory, startingDiseases = find_subdirectory(sys.argv[2]), sys.argv[1]
     output_file = f"./{subdirectory}/average_log_{startingDiseases}.json"
 
     file_list = sorted(glob.glob(f"./{subdirectory}/log_{startingDiseases}_*.json"))
