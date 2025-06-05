@@ -1,18 +1,11 @@
-# Plots 1 json file for population, disease deaths, and percentage sick all over timesteps.
-
-# Usage: python3 plot.py <json_file>
-
 import json
 import sys
+import glob
 import matplotlib.pyplot as plt
 
 def load_json (filename):
     with open(filename, 'r') as file:
-        try:
-            return json.load(file)
-        except:
-            print("error loading json... quitting program.")
-            sys.exit()
+        return json.load(file)
 
 def load_data (json_data):
     timesteps = [entry["timestep"] for entry in json_data]
@@ -55,9 +48,11 @@ def plot_incidence (timesteps, incidence, filename):
     plt.cla()
 
 if __name__ == "__main__":
-    filename = sys.argv[1]
-    json = load_json(filename)
+    subdirectory, startingDiseases = sys.argv[1], sys.argv[2]
+    input_file = f"./{subdirectory}/average_log_{startingDiseases}.json"
+    
+    json = load_json(input_file)
     timesteps, population, agent_deaths, sick_agents = load_data(json)
-    plot_population(timesteps, population, filename) 
-    plot_disease_deaths(timesteps, agent_deaths, filename)
-    plot_incidence(timesteps, sick_agents, filename)
+    plot_population(timesteps, population, startingDiseases) 
+    plot_disease_deaths(timesteps, agent_deaths, startingDiseases)
+    plot_incidence(timesteps, sick_agents, startingDiseases)
