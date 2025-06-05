@@ -76,7 +76,7 @@ research:
 	./prepare.sh
 
 plot:
-	chmod u+x prepare_plot.sh
+	chmod u+x prepare_plots.sh
 	chmod u+x plot_average.sh
 	./prepare_plots.sh
 	./plot_average.sh

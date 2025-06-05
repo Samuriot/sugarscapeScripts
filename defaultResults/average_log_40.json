@@ -1,0 +1,6008 @@
+[
+  {
+    "timestep": 0,
+    "population": 250.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 1,
+    "population": 249.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 2,
+    "population": 249.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 3,
+    "population": 247.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 4,
+    "population": 241.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 5,
+    "population": 234.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.0
+  },
+  {
+    "timestep": 6,
+    "population": 226.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.0
+  },
+  {
+    "timestep": 7,
+    "population": 215.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 96.5
+  },
+  {
+    "timestep": 8,
+    "population": 203.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 96.4
+  },
+  {
+    "timestep": 9,
+    "population": 193.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 96.3
+  },
+  {
+    "timestep": 10,
+    "population": 181.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 96.8
+  },
+  {
+    "timestep": 11,
+    "population": 173.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.3
+  },
+  {
+    "timestep": 12,
+    "population": 165.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 13,
+    "population": 159.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 14,
+    "population": 155.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 15,
+    "population": 152.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 16,
+    "population": 147.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 17,
+    "population": 143.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 18,
+    "population": 142.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 19,
+    "population": 142.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 20,
+    "population": 141.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 21,
+    "population": 139.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 22,
+    "population": 139.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 23,
+    "population": 139.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 24,
+    "population": 138.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 25,
+    "population": 138.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 26,
+    "population": 138.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 27,
+    "population": 138.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 28,
+    "population": 140.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 29,
+    "population": 140.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 30,
+    "population": 143.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 31,
+    "population": 144.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.3
+  },
+  {
+    "timestep": 32,
+    "population": 146.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.2
+  },
+  {
+    "timestep": 33,
+    "population": 149.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.3
+  },
+  {
+    "timestep": 34,
+    "population": 150.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.2
+  },
+  {
+    "timestep": 35,
+    "population": 151.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.2
+  },
+  {
+    "timestep": 36,
+    "population": 154.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.1
+  },
+  {
+    "timestep": 37,
+    "population": 155.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 96.8
+  },
+  {
+    "timestep": 38,
+    "population": 157.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.3
+  },
+  {
+    "timestep": 39,
+    "population": 159.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.2
+  },
+  {
+    "timestep": 40,
+    "population": 162.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.2
+  },
+  {
+    "timestep": 41,
+    "population": 165.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.3
+  },
+  {
+    "timestep": 42,
+    "population": 166.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 43,
+    "population": 168.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 44,
+    "population": 170.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 45,
+    "population": 172.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 46,
+    "population": 174.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 47,
+    "population": 176.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 48,
+    "population": 177.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 49,
+    "population": 178.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 50,
+    "population": 180.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 51,
+    "population": 183.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 52,
+    "population": 185.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 53,
+    "population": 187.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 54,
+    "population": 189.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 55,
+    "population": 192.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 56,
+    "population": 194.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 57,
+    "population": 196.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 58,
+    "population": 197.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 59,
+    "population": 200.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 60,
+    "population": 198.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 61,
+    "population": 197.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 62,
+    "population": 197.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 63,
+    "population": 197.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 64,
+    "population": 197.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 65,
+    "population": 196.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 66,
+    "population": 195.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 67,
+    "population": 195.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 68,
+    "population": 196.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 69,
+    "population": 197.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.4
+  },
+  {
+    "timestep": 70,
+    "population": 197.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.6
+  },
+  {
+    "timestep": 71,
+    "population": 199.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 72,
+    "population": 200.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 73,
+    "population": 203.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 74,
+    "population": 206.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 75,
+    "population": 209.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 76,
+    "population": 210.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 77,
+    "population": 212.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 78,
+    "population": 212.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 79,
+    "population": 214.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.3
+  },
+  {
+    "timestep": 80,
+    "population": 218.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 81,
+    "population": 220.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 82,
+    "population": 221.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 83,
+    "population": 223.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.6
+  },
+  {
+    "timestep": 84,
+    "population": 224.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 85,
+    "population": 228.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.3
+  },
+  {
+    "timestep": 86,
+    "population": 229.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.4
+  },
+  {
+    "timestep": 87,
+    "population": 233.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.6
+  },
+  {
+    "timestep": 88,
+    "population": 234.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 89,
+    "population": 236.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 90,
+    "population": 239.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 91,
+    "population": 240.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.6
+  },
+  {
+    "timestep": 92,
+    "population": 242.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 93,
+    "population": 245.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 94,
+    "population": 247.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 95,
+    "population": 250.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 96,
+    "population": 252.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 97,
+    "population": 255.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 98,
+    "population": 257.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.6
+  },
+  {
+    "timestep": 99,
+    "population": 260.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.4
+  },
+  {
+    "timestep": 100,
+    "population": 262.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.2
+  },
+  {
+    "timestep": 101,
+    "population": 266.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.4
+  },
+  {
+    "timestep": 102,
+    "population": 271.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 103,
+    "population": 271.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 104,
+    "population": 277.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 105,
+    "population": 281.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 106,
+    "population": 284.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 107,
+    "population": 290.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.6
+  },
+  {
+    "timestep": 108,
+    "population": 294.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.4
+  },
+  {
+    "timestep": 109,
+    "population": 299.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.1
+  },
+  {
+    "timestep": 110,
+    "population": 304.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 111,
+    "population": 307.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 112,
+    "population": 311.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 113,
+    "population": 315.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 114,
+    "population": 319.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 115,
+    "population": 323.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 116,
+    "population": 328.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 117,
+    "population": 332.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 118,
+    "population": 336.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 119,
+    "population": 340.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 120,
+    "population": 344.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 121,
+    "population": 349.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.7
+  },
+  {
+    "timestep": 122,
+    "population": 352.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.8
+  },
+  {
+    "timestep": 123,
+    "population": 359.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.5
+  },
+  {
+    "timestep": 124,
+    "population": 361.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 125,
+    "population": 365.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 126,
+    "population": 369.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 127,
+    "population": 373.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 128,
+    "population": 376.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 129,
+    "population": 379.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 130,
+    "population": 383.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 131,
+    "population": 387.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 132,
+    "population": 390.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 133,
+    "population": 394.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 134,
+    "population": 396.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 135,
+    "population": 398.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 136,
+    "population": 401.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 137,
+    "population": 402.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 138,
+    "population": 404.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 139,
+    "population": 405.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 140,
+    "population": 407.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 141,
+    "population": 411.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 142,
+    "population": 414.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 143,
+    "population": 418.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 144,
+    "population": 420.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 145,
+    "population": 421.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 146,
+    "population": 426.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 147,
+    "population": 428.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 148,
+    "population": 431.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 149,
+    "population": 434.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.0
+  },
+  {
+    "timestep": 150,
+    "population": 432.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 151,
+    "population": 434.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 152,
+    "population": 438.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 153,
+    "population": 440.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 154,
+    "population": 447.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 155,
+    "population": 450.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 156,
+    "population": 458.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 97.9
+  },
+  {
+    "timestep": 157,
+    "population": 459.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 158,
+    "population": 459.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 159,
+    "population": 463.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.1
+  },
+  {
+    "timestep": 160,
+    "population": 466.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 161,
+    "population": 466.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 162,
+    "population": 466.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 163,
+    "population": 469.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 164,
+    "population": 472.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 165,
+    "population": 472.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 166,
+    "population": 474.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 167,
+    "population": 478.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 168,
+    "population": 477.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 169,
+    "population": 478.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 170,
+    "population": 482.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.2
+  },
+  {
+    "timestep": 171,
+    "population": 482.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 172,
+    "population": 485.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 173,
+    "population": 486.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 174,
+    "population": 487.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 175,
+    "population": 487.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 176,
+    "population": 488.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 177,
+    "population": 489.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 178,
+    "population": 491.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 179,
+    "population": 495.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 180,
+    "population": 497.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 181,
+    "population": 497.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 182,
+    "population": 497.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 183,
+    "population": 498.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 184,
+    "population": 497.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 185,
+    "population": 497.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 186,
+    "population": 502.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 187,
+    "population": 503.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 188,
+    "population": 506.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 189,
+    "population": 508.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 190,
+    "population": 510.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 191,
+    "population": 511.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 192,
+    "population": 511.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 193,
+    "population": 514.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 194,
+    "population": 516.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 195,
+    "population": 515.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 196,
+    "population": 514.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 197,
+    "population": 512.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 198,
+    "population": 515.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 199,
+    "population": 515.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 200,
+    "population": 517.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 201,
+    "population": 522.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 202,
+    "population": 524.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 203,
+    "population": 525.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 204,
+    "population": 528.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 205,
+    "population": 530.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 206,
+    "population": 531.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 207,
+    "population": 535.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 208,
+    "population": 534.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 209,
+    "population": 533.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 210,
+    "population": 531.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 211,
+    "population": 531.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.4
+  },
+  {
+    "timestep": 212,
+    "population": 532.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 213,
+    "population": 534.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 214,
+    "population": 535.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 215,
+    "population": 538.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 216,
+    "population": 542.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 217,
+    "population": 546.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 218,
+    "population": 549.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 219,
+    "population": 549.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 220,
+    "population": 550.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 221,
+    "population": 550.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 222,
+    "population": 551.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 223,
+    "population": 549.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 224,
+    "population": 548.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 225,
+    "population": 551.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 226,
+    "population": 554.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 227,
+    "population": 555.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 228,
+    "population": 557.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.3
+  },
+  {
+    "timestep": 229,
+    "population": 560.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 230,
+    "population": 568.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 231,
+    "population": 572.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 232,
+    "population": 574.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 233,
+    "population": 576.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 234,
+    "population": 578.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 235,
+    "population": 578.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 236,
+    "population": 575.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 237,
+    "population": 576.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 238,
+    "population": 576.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 239,
+    "population": 579.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 240,
+    "population": 584.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 241,
+    "population": 589.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 242,
+    "population": 591.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 243,
+    "population": 594.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 244,
+    "population": 597.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 245,
+    "population": 600.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 246,
+    "population": 601.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 247,
+    "population": 602.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.6
+  },
+  {
+    "timestep": 248,
+    "population": 604.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 249,
+    "population": 603.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 250,
+    "population": 603.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 251,
+    "population": 604.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 252,
+    "population": 602.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 253,
+    "population": 603.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 254,
+    "population": 606.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 255,
+    "population": 606.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 256,
+    "population": 609.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 257,
+    "population": 613.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 258,
+    "population": 616.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 259,
+    "population": 619.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 260,
+    "population": 619.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 261,
+    "population": 620.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 262,
+    "population": 621.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 263,
+    "population": 623.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 264,
+    "population": 624.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 265,
+    "population": 626.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 266,
+    "population": 628.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 267,
+    "population": 627.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 268,
+    "population": 628.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 269,
+    "population": 632.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.5
+  },
+  {
+    "timestep": 270,
+    "population": 639.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 271,
+    "population": 641.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 272,
+    "population": 644.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 273,
+    "population": 647.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 274,
+    "population": 649.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 275,
+    "population": 649.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 276,
+    "population": 653.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 277,
+    "population": 655.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 278,
+    "population": 655.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 279,
+    "population": 658.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 280,
+    "population": 658.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 281,
+    "population": 663.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 282,
+    "population": 666.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 283,
+    "population": 669.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.7
+  },
+  {
+    "timestep": 284,
+    "population": 671.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 285,
+    "population": 674.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 286,
+    "population": 678.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 287,
+    "population": 683.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 288,
+    "population": 687.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 289,
+    "population": 688.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 290,
+    "population": 690.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 291,
+    "population": 692.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 292,
+    "population": 694.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 293,
+    "population": 696.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 294,
+    "population": 699.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 295,
+    "population": 702.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 296,
+    "population": 707.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 297,
+    "population": 709.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 298,
+    "population": 714.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 299,
+    "population": 717.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 300,
+    "population": 722.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 301,
+    "population": 724.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.8
+  },
+  {
+    "timestep": 302,
+    "population": 726.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 303,
+    "population": 730.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 304,
+    "population": 733.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 305,
+    "population": 732.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 306,
+    "population": 735.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 307,
+    "population": 734.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 308,
+    "population": 734.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 309,
+    "population": 739.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 310,
+    "population": 743.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 311,
+    "population": 746.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 312,
+    "population": 750.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 313,
+    "population": 750.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 314,
+    "population": 752.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 315,
+    "population": 756.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 316,
+    "population": 761.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 317,
+    "population": 762.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 318,
+    "population": 766.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 319,
+    "population": 770.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 320,
+    "population": 773.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 321,
+    "population": 780.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 322,
+    "population": 782.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 323,
+    "population": 786.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 324,
+    "population": 787.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 325,
+    "population": 790.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 326,
+    "population": 794.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 327,
+    "population": 794.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 328,
+    "population": 799.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 329,
+    "population": 798.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 330,
+    "population": 802.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 331,
+    "population": 807.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 332,
+    "population": 813.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 333,
+    "population": 815.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 334,
+    "population": 819.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 98.9
+  },
+  {
+    "timestep": 335,
+    "population": 823.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 336,
+    "population": 827.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 337,
+    "population": 828.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 338,
+    "population": 832.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.0
+  },
+  {
+    "timestep": 339,
+    "population": 835.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 340,
+    "population": 835.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 341,
+    "population": 838.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 342,
+    "population": 840.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 343,
+    "population": 840.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 344,
+    "population": 841.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 345,
+    "population": 847.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 346,
+    "population": 850.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 347,
+    "population": 854.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 348,
+    "population": 857.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 349,
+    "population": 856.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 350,
+    "population": 859.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 351,
+    "population": 863.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 352,
+    "population": 868.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 353,
+    "population": 871.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 354,
+    "population": 871.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 355,
+    "population": 872.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 356,
+    "population": 876.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 357,
+    "population": 881.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 358,
+    "population": 881.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 359,
+    "population": 887.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 360,
+    "population": 891.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.1
+  },
+  {
+    "timestep": 361,
+    "population": 894.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 362,
+    "population": 897.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 363,
+    "population": 899.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 364,
+    "population": 903.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 365,
+    "population": 906.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 366,
+    "population": 911.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 367,
+    "population": 913.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 368,
+    "population": 914.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 369,
+    "population": 913.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 370,
+    "population": 915.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.2
+  },
+  {
+    "timestep": 371,
+    "population": 913.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 372,
+    "population": 917.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 373,
+    "population": 922.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 374,
+    "population": 928.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 375,
+    "population": 929.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 376,
+    "population": 929.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 377,
+    "population": 932.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 378,
+    "population": 934.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 379,
+    "population": 939.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 380,
+    "population": 944.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 381,
+    "population": 947.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 382,
+    "population": 951.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 383,
+    "population": 953.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 384,
+    "population": 957.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 385,
+    "population": 959.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 386,
+    "population": 964.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 387,
+    "population": 966.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 388,
+    "population": 968.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 389,
+    "population": 968.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 390,
+    "population": 968.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 391,
+    "population": 969.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 392,
+    "population": 970.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 393,
+    "population": 974.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 394,
+    "population": 975.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 395,
+    "population": 978.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 396,
+    "population": 979.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 397,
+    "population": 980.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 398,
+    "population": 981.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 399,
+    "population": 982.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 400,
+    "population": 982.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 401,
+    "population": 988.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 402,
+    "population": 987.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 403,
+    "population": 989.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 404,
+    "population": 988.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 405,
+    "population": 988.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 406,
+    "population": 992.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 407,
+    "population": 991.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 408,
+    "population": 995.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 409,
+    "population": 996.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 410,
+    "population": 996.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 411,
+    "population": 995.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 412,
+    "population": 996.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 413,
+    "population": 1000.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 414,
+    "population": 1005.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 415,
+    "population": 1006.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 416,
+    "population": 1007.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 417,
+    "population": 1007.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 418,
+    "population": 1005.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 419,
+    "population": 1007.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 420,
+    "population": 1012.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 421,
+    "population": 1017.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 422,
+    "population": 1017.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 423,
+    "population": 1017.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 424,
+    "population": 1018.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 425,
+    "population": 1019.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 426,
+    "population": 1021.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 427,
+    "population": 1026.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 428,
+    "population": 1026.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 429,
+    "population": 1025.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 430,
+    "population": 1028.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 431,
+    "population": 1029.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 432,
+    "population": 1026.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 433,
+    "population": 1026.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 434,
+    "population": 1027.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 435,
+    "population": 1028.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 436,
+    "population": 1029.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 437,
+    "population": 1034.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 438,
+    "population": 1036.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 439,
+    "population": 1035.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 440,
+    "population": 1039.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 441,
+    "population": 1042.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 442,
+    "population": 1043.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 443,
+    "population": 1044.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 444,
+    "population": 1044.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 445,
+    "population": 1047.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 446,
+    "population": 1045.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 447,
+    "population": 1044.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 448,
+    "population": 1043.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 449,
+    "population": 1044.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 450,
+    "population": 1045.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 451,
+    "population": 1049.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 452,
+    "population": 1049.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 453,
+    "population": 1051.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 454,
+    "population": 1053.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 455,
+    "population": 1052.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 456,
+    "population": 1053.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 457,
+    "population": 1054.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 458,
+    "population": 1054.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 459,
+    "population": 1053.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 460,
+    "population": 1057.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 461,
+    "population": 1057.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 462,
+    "population": 1056.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 463,
+    "population": 1054.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 464,
+    "population": 1053.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 465,
+    "population": 1055.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 466,
+    "population": 1055.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 467,
+    "population": 1055.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 468,
+    "population": 1057.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 469,
+    "population": 1058.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 470,
+    "population": 1058.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 471,
+    "population": 1061.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 472,
+    "population": 1061.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 473,
+    "population": 1061.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 474,
+    "population": 1060.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 475,
+    "population": 1062.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 476,
+    "population": 1063.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 477,
+    "population": 1062.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 478,
+    "population": 1063.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 479,
+    "population": 1063.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 480,
+    "population": 1065.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 481,
+    "population": 1065.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 482,
+    "population": 1069.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 483,
+    "population": 1070.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 484,
+    "population": 1070.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 485,
+    "population": 1073.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 486,
+    "population": 1075.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 487,
+    "population": 1078.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 488,
+    "population": 1079.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 489,
+    "population": 1076.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 490,
+    "population": 1078.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 491,
+    "population": 1080.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 492,
+    "population": 1082.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 493,
+    "population": 1084.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 494,
+    "population": 1084.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 495,
+    "population": 1083.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 496,
+    "population": 1083.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 497,
+    "population": 1085.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 498,
+    "population": 1081.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 499,
+    "population": 1081.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 500,
+    "population": 1082.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 501,
+    "population": 1081.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 502,
+    "population": 1079.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 503,
+    "population": 1079.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 504,
+    "population": 1081.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 505,
+    "population": 1081.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 506,
+    "population": 1080.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 507,
+    "population": 1083.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 508,
+    "population": 1084.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 509,
+    "population": 1081.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 510,
+    "population": 1080.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 511,
+    "population": 1079.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 512,
+    "population": 1078.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 513,
+    "population": 1078.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 514,
+    "population": 1077.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 515,
+    "population": 1077.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 516,
+    "population": 1079.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 517,
+    "population": 1078.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 518,
+    "population": 1078.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 519,
+    "population": 1078.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 520,
+    "population": 1079.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 521,
+    "population": 1080.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 522,
+    "population": 1080.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 523,
+    "population": 1082.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 524,
+    "population": 1083.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 525,
+    "population": 1082.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 526,
+    "population": 1080.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 527,
+    "population": 1083.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 528,
+    "population": 1084.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 529,
+    "population": 1084.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 530,
+    "population": 1083.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 531,
+    "population": 1084.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 532,
+    "population": 1083.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 533,
+    "population": 1081.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 534,
+    "population": 1081.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 535,
+    "population": 1083.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 536,
+    "population": 1086.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 537,
+    "population": 1093.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 538,
+    "population": 1088.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 539,
+    "population": 1087.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 540,
+    "population": 1088.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 541,
+    "population": 1092.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 542,
+    "population": 1092.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 543,
+    "population": 1091.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 544,
+    "population": 1093.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 545,
+    "population": 1094.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 546,
+    "population": 1096.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 547,
+    "population": 1094.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 548,
+    "population": 1093.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 549,
+    "population": 1097.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 550,
+    "population": 1097.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 551,
+    "population": 1097.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 552,
+    "population": 1098.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 553,
+    "population": 1096.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 554,
+    "population": 1097.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 555,
+    "population": 1095.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 556,
+    "population": 1094.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 557,
+    "population": 1095.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 558,
+    "population": 1097.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 559,
+    "population": 1099.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 560,
+    "population": 1101.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 561,
+    "population": 1100.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 562,
+    "population": 1099.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 563,
+    "population": 1100.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 564,
+    "population": 1101.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 565,
+    "population": 1103.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 566,
+    "population": 1101.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 567,
+    "population": 1101.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 568,
+    "population": 1098.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 569,
+    "population": 1100.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 570,
+    "population": 1095.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 571,
+    "population": 1096.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 572,
+    "population": 1098.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 573,
+    "population": 1099.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 574,
+    "population": 1101.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 575,
+    "population": 1100.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 576,
+    "population": 1099.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 577,
+    "population": 1101.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 578,
+    "population": 1100.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 579,
+    "population": 1100.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 580,
+    "population": 1098.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 581,
+    "population": 1097.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 582,
+    "population": 1097.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 583,
+    "population": 1101.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 584,
+    "population": 1096.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 585,
+    "population": 1097.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 586,
+    "population": 1096.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 587,
+    "population": 1097.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 588,
+    "population": 1099.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 589,
+    "population": 1099.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 590,
+    "population": 1100.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 591,
+    "population": 1098.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 592,
+    "population": 1100.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 593,
+    "population": 1101.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 594,
+    "population": 1106.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 595,
+    "population": 1105.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 596,
+    "population": 1104.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 597,
+    "population": 1106.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 598,
+    "population": 1102.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 599,
+    "population": 1100.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 600,
+    "population": 1100.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 601,
+    "population": 1099.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 602,
+    "population": 1099.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 603,
+    "population": 1100.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 604,
+    "population": 1099.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 605,
+    "population": 1099.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 606,
+    "population": 1098.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 607,
+    "population": 1098.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 608,
+    "population": 1100.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 609,
+    "population": 1100.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 610,
+    "population": 1104.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 611,
+    "population": 1103.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 612,
+    "population": 1102.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 613,
+    "population": 1102.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 614,
+    "population": 1105.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 615,
+    "population": 1105.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 616,
+    "population": 1105.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 617,
+    "population": 1107.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 618,
+    "population": 1105.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 619,
+    "population": 1108.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 620,
+    "population": 1108.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 621,
+    "population": 1107.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 622,
+    "population": 1108.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 623,
+    "population": 1104.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 624,
+    "population": 1106.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 625,
+    "population": 1105.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 626,
+    "population": 1107.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 627,
+    "population": 1107.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 628,
+    "population": 1103.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 629,
+    "population": 1106.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 630,
+    "population": 1110.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 631,
+    "population": 1109.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 632,
+    "population": 1107.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 633,
+    "population": 1104.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 634,
+    "population": 1103.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 635,
+    "population": 1103.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 636,
+    "population": 1104.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 637,
+    "population": 1104.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 638,
+    "population": 1103.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 639,
+    "population": 1104.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 640,
+    "population": 1103.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 641,
+    "population": 1105.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 642,
+    "population": 1104.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 643,
+    "population": 1105.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 644,
+    "population": 1106.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 645,
+    "population": 1105.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 646,
+    "population": 1103.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 647,
+    "population": 1106.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 648,
+    "population": 1105.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 649,
+    "population": 1107.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 650,
+    "population": 1109.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 651,
+    "population": 1109.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 652,
+    "population": 1110.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 653,
+    "population": 1112.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 654,
+    "population": 1112.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 655,
+    "population": 1113.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 656,
+    "population": 1115.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 657,
+    "population": 1115.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 658,
+    "population": 1112.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 659,
+    "population": 1114.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 660,
+    "population": 1116.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 661,
+    "population": 1118.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 662,
+    "population": 1118.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 663,
+    "population": 1122.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 664,
+    "population": 1120.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 665,
+    "population": 1120.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 666,
+    "population": 1122.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 667,
+    "population": 1122.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 668,
+    "population": 1123.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 669,
+    "population": 1122.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 670,
+    "population": 1123.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 671,
+    "population": 1120.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 672,
+    "population": 1121.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 673,
+    "population": 1124.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 674,
+    "population": 1125.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 675,
+    "population": 1127.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 676,
+    "population": 1128.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 677,
+    "population": 1130.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 678,
+    "population": 1131.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 679,
+    "population": 1131.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 680,
+    "population": 1131.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 681,
+    "population": 1129.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 682,
+    "population": 1128.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 683,
+    "population": 1128.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 684,
+    "population": 1128.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 685,
+    "population": 1128.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 686,
+    "population": 1126.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 687,
+    "population": 1126.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 688,
+    "population": 1124.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 689,
+    "population": 1126.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 690,
+    "population": 1127.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 691,
+    "population": 1130.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 692,
+    "population": 1130.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 693,
+    "population": 1130.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 694,
+    "population": 1130.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 695,
+    "population": 1133.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 696,
+    "population": 1136.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 697,
+    "population": 1137.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 698,
+    "population": 1136.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 699,
+    "population": 1134.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 700,
+    "population": 1134.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 701,
+    "population": 1132.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 702,
+    "population": 1135.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 703,
+    "population": 1135.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 704,
+    "population": 1137.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 705,
+    "population": 1140.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 706,
+    "population": 1140.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 707,
+    "population": 1143.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 708,
+    "population": 1143.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 709,
+    "population": 1143.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 710,
+    "population": 1145.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 711,
+    "population": 1143.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 712,
+    "population": 1143.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 713,
+    "population": 1142.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 714,
+    "population": 1142.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 715,
+    "population": 1142.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 716,
+    "population": 1142.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 717,
+    "population": 1140.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 718,
+    "population": 1139.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 719,
+    "population": 1140.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 720,
+    "population": 1137.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 721,
+    "population": 1138.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 722,
+    "population": 1141.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 723,
+    "population": 1141.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 724,
+    "population": 1141.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 725,
+    "population": 1142.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 726,
+    "population": 1143.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 727,
+    "population": 1143.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 728,
+    "population": 1143.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 729,
+    "population": 1142.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 730,
+    "population": 1142.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 731,
+    "population": 1141.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 732,
+    "population": 1142.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 733,
+    "population": 1143.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 734,
+    "population": 1143.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 735,
+    "population": 1142.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 736,
+    "population": 1141.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 737,
+    "population": 1140.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 738,
+    "population": 1141.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 739,
+    "population": 1140.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 740,
+    "population": 1141.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 741,
+    "population": 1145.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 742,
+    "population": 1147.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 743,
+    "population": 1146.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 744,
+    "population": 1146.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 745,
+    "population": 1147.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 746,
+    "population": 1146.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 747,
+    "population": 1149.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.3
+  },
+  {
+    "timestep": 748,
+    "population": 1148.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 749,
+    "population": 1143.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 750,
+    "population": 1142.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 751,
+    "population": 1143.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 752,
+    "population": 1144.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 753,
+    "population": 1143.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 754,
+    "population": 1141.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 755,
+    "population": 1140.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 756,
+    "population": 1140.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 757,
+    "population": 1140.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 758,
+    "population": 1140.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 759,
+    "population": 1141.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 760,
+    "population": 1139.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 761,
+    "population": 1141.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 762,
+    "population": 1142.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 763,
+    "population": 1142.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 764,
+    "population": 1144.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 765,
+    "population": 1141.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 766,
+    "population": 1137.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 767,
+    "population": 1140.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 768,
+    "population": 1142.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 769,
+    "population": 1143.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 770,
+    "population": 1145.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 771,
+    "population": 1144.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 772,
+    "population": 1146.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 773,
+    "population": 1144.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 774,
+    "population": 1145.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 775,
+    "population": 1143.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 776,
+    "population": 1144.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 777,
+    "population": 1145.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 778,
+    "population": 1144.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 779,
+    "population": 1141.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 780,
+    "population": 1142.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 781,
+    "population": 1143.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 782,
+    "population": 1141.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 783,
+    "population": 1143.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 784,
+    "population": 1142.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 785,
+    "population": 1143.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 786,
+    "population": 1145.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 787,
+    "population": 1145.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 788,
+    "population": 1145.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 789,
+    "population": 1149.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 790,
+    "population": 1151.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 791,
+    "population": 1151.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 792,
+    "population": 1154.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 793,
+    "population": 1151.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 794,
+    "population": 1155.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 795,
+    "population": 1154.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 796,
+    "population": 1153.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 797,
+    "population": 1153.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 798,
+    "population": 1153.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 799,
+    "population": 1155.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 800,
+    "population": 1153.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 801,
+    "population": 1155.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 802,
+    "population": 1152.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 803,
+    "population": 1153.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 804,
+    "population": 1156.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 805,
+    "population": 1158.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 806,
+    "population": 1163.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 807,
+    "population": 1163.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 808,
+    "population": 1163.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 809,
+    "population": 1162.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 810,
+    "population": 1159.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 811,
+    "population": 1159.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 812,
+    "population": 1160.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 813,
+    "population": 1159.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 814,
+    "population": 1158.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 815,
+    "population": 1159.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 816,
+    "population": 1159.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 817,
+    "population": 1158.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 818,
+    "population": 1161.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 819,
+    "population": 1159.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 820,
+    "population": 1161.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 821,
+    "population": 1161.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 822,
+    "population": 1163.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 823,
+    "population": 1165.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 824,
+    "population": 1163.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 825,
+    "population": 1164.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 826,
+    "population": 1160.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 827,
+    "population": 1157.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 828,
+    "population": 1156.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 829,
+    "population": 1158.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 830,
+    "population": 1159.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 831,
+    "population": 1158.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 832,
+    "population": 1159.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 833,
+    "population": 1160.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 834,
+    "population": 1159.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 835,
+    "population": 1158.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 836,
+    "population": 1158.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 837,
+    "population": 1157.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 838,
+    "population": 1157.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 839,
+    "population": 1156.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 840,
+    "population": 1156.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 841,
+    "population": 1157.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 842,
+    "population": 1158.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 843,
+    "population": 1159.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 844,
+    "population": 1159.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 845,
+    "population": 1158.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 846,
+    "population": 1160.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 847,
+    "population": 1157.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 848,
+    "population": 1158.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 849,
+    "population": 1157.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 850,
+    "population": 1155.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 851,
+    "population": 1157.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 852,
+    "population": 1156.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 853,
+    "population": 1157.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 854,
+    "population": 1157.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 855,
+    "population": 1157.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 856,
+    "population": 1156.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 857,
+    "population": 1158.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 858,
+    "population": 1157.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 859,
+    "population": 1156.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 860,
+    "population": 1157.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 861,
+    "population": 1157.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 862,
+    "population": 1157.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 863,
+    "population": 1157.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 864,
+    "population": 1159.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 865,
+    "population": 1160.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 866,
+    "population": 1161.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 867,
+    "population": 1163.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 868,
+    "population": 1164.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 869,
+    "population": 1162.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 870,
+    "population": 1162.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 871,
+    "population": 1165.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 872,
+    "population": 1166.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 873,
+    "population": 1167.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 874,
+    "population": 1166.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 875,
+    "population": 1166.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 876,
+    "population": 1167.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 877,
+    "population": 1166.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 878,
+    "population": 1170.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 879,
+    "population": 1174.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 880,
+    "population": 1173.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 881,
+    "population": 1178.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 882,
+    "population": 1179.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 883,
+    "population": 1180.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 884,
+    "population": 1180.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 885,
+    "population": 1178.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 886,
+    "population": 1179.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 887,
+    "population": 1180.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 888,
+    "population": 1183.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 889,
+    "population": 1185.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 890,
+    "population": 1182.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 891,
+    "population": 1180.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 892,
+    "population": 1183.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 893,
+    "population": 1187.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 894,
+    "population": 1182.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 895,
+    "population": 1183.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 896,
+    "population": 1185.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 897,
+    "population": 1182.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 898,
+    "population": 1185.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 899,
+    "population": 1183.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 900,
+    "population": 1178.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 901,
+    "population": 1181.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 902,
+    "population": 1180.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 903,
+    "population": 1181.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 904,
+    "population": 1184.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 905,
+    "population": 1185.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 906,
+    "population": 1184.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 907,
+    "population": 1183.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 908,
+    "population": 1183.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 909,
+    "population": 1183.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 910,
+    "population": 1183.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 911,
+    "population": 1184.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 912,
+    "population": 1184.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 913,
+    "population": 1180.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 914,
+    "population": 1181.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 915,
+    "population": 1179.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 916,
+    "population": 1184.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 917,
+    "population": 1181.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 918,
+    "population": 1182.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 919,
+    "population": 1182.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 920,
+    "population": 1181.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 921,
+    "population": 1182.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 922,
+    "population": 1182.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 923,
+    "population": 1181.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 924,
+    "population": 1182.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 925,
+    "population": 1180.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 926,
+    "population": 1178.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 927,
+    "population": 1178.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 928,
+    "population": 1176.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 929,
+    "population": 1175.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 930,
+    "population": 1176.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 931,
+    "population": 1174.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 932,
+    "population": 1175.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 933,
+    "population": 1177.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 934,
+    "population": 1175.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 935,
+    "population": 1175.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 936,
+    "population": 1179.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 937,
+    "population": 1177.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 938,
+    "population": 1178.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 939,
+    "population": 1182.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 940,
+    "population": 1181.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 941,
+    "population": 1179.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 942,
+    "population": 1179.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 943,
+    "population": 1176.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 944,
+    "population": 1175.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 945,
+    "population": 1177.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 946,
+    "population": 1179.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 947,
+    "population": 1181.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 948,
+    "population": 1184.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 949,
+    "population": 1186.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 950,
+    "population": 1185.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 951,
+    "population": 1187.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 952,
+    "population": 1186.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 953,
+    "population": 1186.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 954,
+    "population": 1184.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 955,
+    "population": 1185.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 956,
+    "population": 1186.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 957,
+    "population": 1186.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 958,
+    "population": 1183.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 959,
+    "population": 1181.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 960,
+    "population": 1183.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 961,
+    "population": 1186.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 962,
+    "population": 1189.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 963,
+    "population": 1191.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 964,
+    "population": 1191.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 965,
+    "population": 1192.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 966,
+    "population": 1195.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 967,
+    "population": 1195.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 968,
+    "population": 1197.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 969,
+    "population": 1198.7,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 970,
+    "population": 1195.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 971,
+    "population": 1200.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.5
+  },
+  {
+    "timestep": 972,
+    "population": 1197.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 973,
+    "population": 1197.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 974,
+    "population": 1198.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.6
+  },
+  {
+    "timestep": 975,
+    "population": 1202.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 976,
+    "population": 1200.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 977,
+    "population": 1199.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 978,
+    "population": 1200.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 979,
+    "population": 1200.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 980,
+    "population": 1201.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 981,
+    "population": 1201.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 100.0
+  },
+  {
+    "timestep": 982,
+    "population": 1198.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 983,
+    "population": 1196.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 984,
+    "population": 1197.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 985,
+    "population": 1198.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 986,
+    "population": 1202.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 987,
+    "population": 1201.6,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 988,
+    "population": 1199.9,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 989,
+    "population": 1196.5,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 990,
+    "population": 1198.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.4
+  },
+  {
+    "timestep": 991,
+    "population": 1199.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 992,
+    "population": 1200.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 993,
+    "population": 1201.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 994,
+    "population": 1200.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  },
+  {
+    "timestep": 995,
+    "population": 1200.0,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 996,
+    "population": 1199.8,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.7
+  },
+  {
+    "timestep": 997,
+    "population": 1196.2,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 998,
+    "population": 1193.3,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 999,
+    "population": 1193.1,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.8
+  },
+  {
+    "timestep": 1000,
+    "population": 1190.4,
+    "agentDiseaseDeaths": 0.0,
+    "sickAgentsPercentage": 99.9
+  }
+]
