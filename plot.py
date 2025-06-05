@@ -63,4 +63,4 @@ if __name__ == "__main__":
     timesteps, population, agent_deaths, sick_agents = load_data(json)
     plot_population(timesteps, population, startingDiseases, subdirectory) 
     plot_disease_deaths(timesteps, agent_deaths, startingDiseases, subdirectory)
-    plot_incidence(timesteps, sick_agents, sick_agents, subdirectory)
+    plot_incidence(timesteps, sick_agents, startingDiseases, subdirectory)
