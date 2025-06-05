@@ -50,7 +50,6 @@ def find_subdirectory (arg):
     else:
         return "defaultResults"
 
-
 if __name__ == "__main__":
     allowed_keys = {"timestep", "population", "agentDiseaseDeaths", "sickAgentsPercentage"}
     subdirectory, startingDiseases = find_subdirectory(sys.argv[1]), sys.argv[2]
