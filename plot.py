@@ -1,8 +1,9 @@
 # Plots 1 json file for population, disease deaths, and percentage sick all over timesteps.
 
+# Usage: python3 plot.py <json_file>
+
 import json
 import sys
-import glob
 import matplotlib.pyplot as plt
 
 def load_json (filename):
